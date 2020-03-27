@@ -60,6 +60,13 @@ but you'll have to implement those three above instructions first!
 ## Step 0: IMPORTANT: inventory what is here!
 
 * Make a list of files here.
+
+cpu.py -- Defines the cpu object, has fns for reading, writing, and running (including doing the functions of opcodes)
+
+ls8.py -- Creates abd rybs run the cpu instance
+
+asm.py -- Has OPCODES, and converts something with machine code
+
 * Write a short 3-10-word description of what each file does.
 * Note what has been implemented, and what hasn't.
 * Read this whole file.
